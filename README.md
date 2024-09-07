@@ -8,7 +8,7 @@ Feel free to reach out to me via email or connect with me. I'm always open to co
 # Authentication
 <br/><br/>
 <p float="left">
-  <img src="https://github.com/HadiSormeyli/MarketYaab/blob/master/photo_2024-09-06_15-29-06.jpg" width="150" />
+  <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_2024-09-06_15-29-06.jpg" width="150" />
 </p>
 <br/><br/>
 
