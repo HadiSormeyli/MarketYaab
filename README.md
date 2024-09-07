@@ -15,6 +15,11 @@ This pattern was specified by André Medeiros (Staltz) for a JavaScript framewor
 * model(): The model() function takes the output from intent() as input to manipulate the Model. The output of this function is a new Model (state changed). So it should not update an already existing Model. We want immutability! We don’t change an already existing Model object instance. We create a new Model according to the changes described by the intent. Please note, that the model() function is the only piece of your code that is allowed to create a new Model object. Then this new immutable Model is the output of this function. Basically, the model() function calls our apps business logic (could be an Interactor, Usecase, Repository … whatever pattern / terminology you use in your app) and delivers a new Model object as result.
 * view(): This method takes the model returned from model() function and gives it as input to the view() function. Then the View simply displays this Model somehow. view() is basically the same as view.render(model).
 
+# Coroutine + Flow
+* Play MVI with Kotlin Coroutines Flow.
+* Clean Architecture, Functional programming with ΛRROW.kt.
+* Using Koin for DI.
+
 # Authentication
 <br/><br/>
 <p float="left">
