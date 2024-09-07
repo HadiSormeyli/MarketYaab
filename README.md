@@ -23,6 +23,7 @@ Features:
 📧 Email: mohammadhadisormeyli@gmail.com<br/>
 Feel free to reach out to me via email or connect with me. I'm always open to collaboration and networking opportunities!
 
+# Clean Architecture 
 * Play MVI with Kotlin Coroutines Flow.
 * Clean Architecture, Functional programming.
 * Using Koin for DI.
