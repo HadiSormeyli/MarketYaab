@@ -4,6 +4,7 @@ Market Yab is a comprehensive dropshipping app designed to streamline the shoppi
 
 Features:
 - Customer Panel:
+<br/>
   - View product categories easily.
   - Save favorite locations to see nearby product listings.
   - Check the distance to selected stores and navigate to them.
@@ -11,13 +12,14 @@ Features:
   - View stores on a map and explore store details.
   - Update profile information.
 <br/>
-*Seller Panel:
 
-**Add and edit product listings.
-**Manage product reservations.
-**Mark the store as a trusted vendor.
-**Scan customer order codes and receive payments.
-**Update seller profile information.
+- Seller Panel:
+<br/>
+  - Add and edit product listings.
+  - Manage product reservations.
+  - Mark the store as a trusted vendor.
+  - Scan customer order codes and receive payments.
+  - Update seller profile information.
 
 
 <br/>
