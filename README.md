@@ -11,7 +11,7 @@ Features:
   - View stores on a map and explore store details.
   - Update profile information.
 
-- Seller Panel:
+- Store Panel:
   - Add and edit product listings.
   - Manage product reservations.
   - Mark the store as a trusted vendor.
