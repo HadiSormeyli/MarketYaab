@@ -35,7 +35,7 @@ This pattern was specified by André Medeiros (Staltz) for a JavaScript framewor
 
 # Coroutine + Flow
 * Play MVI with Kotlin Coroutines Flow.
-* Clean Architecture, Functional programming with ΛRROW.kt.
+* Clean Architecture, Functional programming.
 * Using Koin for DI.
 
 # Authentication
