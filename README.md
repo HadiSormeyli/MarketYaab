@@ -37,7 +37,8 @@ This pattern was specified by André Medeiros (Staltz) for a JavaScript framewor
 * Play MVI with Kotlin Coroutines Flow.
 * Clean Architecture, Functional programming.
 * Using Koin for DI.
-* Utilizes Jetpack Compose to deliver a modern, high-quality UI design for an enhanced user experience
+* Utilizes Jetpack Compose to deliver a modern, high-quality UI design for an enhanced user experience.
+* Offers both light and night themes.
 
 # Authentication
 <br/><br/>
