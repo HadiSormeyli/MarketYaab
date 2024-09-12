@@ -41,7 +41,7 @@ This pattern was specified by André Medeiros (Staltz) for a JavaScript framewor
 * view(): This method takes the model returned from model() function and gives it as input to the view() function. Then the View simply displays this Model somehow. view() is basically the same as view.render(model).
 
 # Authentication
-<br/><br/>
+<br/>
 <p float="left">
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_2024-09-06_15-29-06.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_1_2024-09-06_15-37-45.jpg" width="150" />
@@ -54,7 +54,7 @@ This pattern was specified by André Medeiros (Staltz) for a JavaScript framewor
 <br/><br/>
 
 # Customer
-<br/><br/>
+<br/>
 <p float="left">
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_1_2024-09-06_18-40-53.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_2_2024-09-06_18-40-53.jpg" width="150" />
@@ -71,7 +71,7 @@ This pattern was specified by André Medeiros (Staltz) for a JavaScript framewor
 
 
 # Store
-<br/><br/>
+<br/>
  <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_5_2024-09-06_19-21-47.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_2_2024-09-06_19-21-47.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_3_2024-09-06_19-21-47.jpg" width="150" />
