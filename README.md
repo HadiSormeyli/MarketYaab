@@ -72,10 +72,12 @@ This pattern was specified by André Medeiros (Staltz) for a JavaScript framewor
 
 # Store
 <br/>
+<p float="left">
  <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_5_2024-09-06_19-21-47.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_2_2024-09-06_19-21-47.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_3_2024-09-06_19-21-47.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_1_2024-09-06_19-21-47.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_4_2024-09-06_19-21-47.jpg" width="150" />
   <img src="https://github.com/HadiSormeyli/MarketYaab/blob/main/images/photo_7_2024-09-06_19-21-47.jpg" width="150" />
+  </p>
 <br/><br/>
